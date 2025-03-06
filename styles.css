@@ -1,0 +1,29 @@
+.cart {
+    background-color: rgb(255, 216, 20);
+    border: solid;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.buy {
+    background-color: rgb(225, 164, 20);
+    border: solid;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.cost {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+
+.link {
+    color: rgb(0, 113, 133);
+}
